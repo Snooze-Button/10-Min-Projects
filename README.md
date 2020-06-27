@@ -1,2 +1,2 @@
 # 10-Min-Projects
-Repository for my 10 minutes Projects
+Repository for Programs I've made in 10 minute of Time.
